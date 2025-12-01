@@ -38,10 +38,3 @@ In my free time, I enjoy [Hobby 1] and [Hobby 2].
 
 ***
 
-## News
-
-{% include news.liquid limit=true %}
-
-## Selected Publications
-
-{% include selected_papers.liquid %}
