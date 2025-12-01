@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Kwok Ho Hody Chang
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student at The University of British Columbia <a href='#'></a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
