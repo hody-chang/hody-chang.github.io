@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Kwok Ho Hody Chang
+title: about
 permalink: /
-subtitle: PhD Student at The University of British Columbia <a href='#'></a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student in Mathematics at UBC.
 
 profile:
   align: right
@@ -27,8 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the **[Math]** at **[UBC]**, where I am fortunate to be advised by [Prof. Colin Macdonald](https://personal.math.ubc.ca/~cbm/) and [Prof. Bhushan Gopaluni](https://dais.chbe.ubc.ca/about/)
+.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on **Numerical Method** and **Scientific Computing**, with a specific interest in **[Sub-field 1]** and **[Sub-field 2]**. Previously, I completed my [Master's] at [UBC].
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am working on [current project]. My goal is to build systems that [work].
+
+In my free time, I enjoy [Hobby 1] and [Hobby 2].
+
+***
+
+## News
+
+{% include news.liquid limit=true %}
+
+## Selected Publications
+
+{% include selected_papers.liquid %}
