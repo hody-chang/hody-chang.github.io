@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the **[Math]** at **[UBC]**, where I am fortunate to be advised by [Prof. Colin Macdonald](https://personal.math.ubc.ca/~cbm/) and [Prof. Bhushan Gopaluni](https://dais.chbe.ubc.ca/about/)
+I am a PhD student in the **Math** at **UBC**, where I am fortunate to be supervised by [Prof. Colin Macdonald](https://personal.math.ubc.ca/~cbm/) and [Prof. Bhushan Gopaluni](https://dais.chbe.ubc.ca/about/)
 .
 
-My research focuses on **Numerical Method** and **Scientific Computing**, with a specific interest in **[Sub-field 1]** and **[Sub-field 2]**. Previously, I completed my [Master's] at [UBC].
+My research focuses on **Numerical Method** and **Scientific Computing**, with a specific interest in **[Sub-field 1]** and **[Sub-field 2]**. Previously, I completed my Master's at UBC.
 
 Currently, I am working on [current project]. My goal is to build systems that [work].
 
