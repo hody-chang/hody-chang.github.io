@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hodychang.github.io/sitemap.xml
+Sitemap: https://hody-chang.github.io/sitemap.xml
