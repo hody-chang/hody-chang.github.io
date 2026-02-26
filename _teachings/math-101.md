@@ -18,12 +18,16 @@ I often develop small tools to help visualize the abstract concepts we discuss i
 
 ## Notes
 
-## While preparing for our classes, I often create handwritten notes that summarize the day’s key points or explore "extra" content that we might not have time to cover in depth during the lecture. I will upload these periodically for those who want a different perspective on the material.
+While preparing for our classes, I often create handwritten notes that summarize the day’s key points or explore "extra" content that we might not have time to cover in depth during the lecture. I will upload these periodically for those who want a different perspective on the material.
+
+---
 
 ## External resourse
 
 Beyond our course materials, these are some of the best online resources I recommend for mastering certain topics. (Or some tips and tricks)
 
-## All credit go to the owner.
+**All credit go to the owner.**
+
+---
 
 - Week 5 | Integration by parts. The LIATE rule [Video](https://www.youtube.com/watch?v=FS3ksSmdE90)
