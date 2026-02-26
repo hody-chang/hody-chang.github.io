@@ -17,8 +17,8 @@ cv:
   address:
     street: LSK
     city: Vancouver
-    region: 
-    postalCode: 
+    region:
+    postalCode:
     countryCode: Canada
 
   sections:
@@ -48,7 +48,7 @@ cv:
 
     Experience:
       - company: xxxxx
-        position: xxx 
+        position: xxx
         location: xxxxx
         start_date: 1933
         end_date: 1955
@@ -75,7 +75,7 @@ cv:
         date: 1921-11-01
         awarder: xxx
         url: xxx
-        summary: 
+        summary:
 
     Publications:
       - title: xxx
@@ -85,7 +85,6 @@ cv:
         releaseDate: xxx
         url: xxx
         summary: xxxx
-
 
     Skills:
       - name: xxx
@@ -124,4 +123,3 @@ cv:
       - name: xxx
         icon: fa-solid fa-laptop
         reference: xxx
-
