@@ -90,8 +90,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: My Subspace # blog_name will be displayed in your blog page
+blog_description: A space for me to share
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -134,8 +134,8 @@ external_sources:
     tags: [medium]
   - name: Google Blog
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
+        published_date: 2025-02-12
     categories: [external-posts]
     tags: [google]
 
