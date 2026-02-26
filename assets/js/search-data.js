@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-premoon",
+        },{id: "post-gtnh-a-pre-moon-base-showcase",
         
-          title: "Premoon",
+          title: "(GTNH) A Pre-Moon base showcase",
         
-        description: "",
+        description: "Showcase",
         section: "Posts",
         handler: () => {
           
