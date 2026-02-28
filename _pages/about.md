@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the **University of British Columbia (UBC)**. My research focuses on **Numerical Methods**, with a current emphasis on the **Closest Point Method** and its applications in **Machine Learning**.
+I am a PhD student at the **University of British Columbia (UBC)**. My research focuses on **Numerical Methods** and **Scientific Machine Learning**, with a current emphasis on the **Closest Point Method** and its applications in **Machine Learning**.
 
 I am fortunate to be supervised by [Prof. Colin B. Macdonald](https://personal.math.ubc.ca/~cbm/) and [Prof. Bhushan Gopaluni](https://chbe.ubc.ca/bhushan-gopaluni/).
 
